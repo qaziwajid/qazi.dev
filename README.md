@@ -56,3 +56,4 @@ No extra setup needed — `vite.config.js` already uses a relative base path (`.
 ## Editing content
 
 All resume content (experience, skills, education, contact info) lives as plain data arrays near the top of `src/App.jsx` — edit those arrays to update the page without touching any layout code.
+
