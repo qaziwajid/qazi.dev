@@ -84,7 +84,7 @@ const experience = [
     role: "Full Stack Web Developer",
     company: "Alpha Code",
     period: "03/2022 – 03/2023",
-    location: "On-site",
+    location: "Remote",
     color: hues.rose,
     bullets: [
       "Built dynamic React.js + PHP + MySQL single-page applications, reducing initial page-load times by 30%.",
