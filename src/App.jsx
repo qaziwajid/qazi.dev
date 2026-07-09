@@ -333,7 +333,7 @@ export default function Portfolio() {
           <div style={{ maxWidth: 1080, margin: "0 auto", padding: "16px 24px", display: "flex", alignItems: "center", justifyContent: "space-between" }}>
             <div style={{ fontFamily: "monospace", fontSize: 14, color: base.dim, display: "flex", alignItems: "center", gap: 6 }}>
               <Sparkles size={14} color={hues.amber} />
-              wajid<span style={{ color: base.text, fontWeight: 600 }}>.dev</span>
+              Qazi<span style={{ color: base.text, fontWeight: 600 }}>.dev</span>
             </div>
             <nav style={{ display: "flex", gap: 28 }} className="hidden md:flex">
               {nav.map((n, i) => (
